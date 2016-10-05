@@ -4,6 +4,6 @@ test
 ## TODO
 
 ### THINGS TO DO TODAY
-- [ ] `review fast campus`
+- [x] `review fast campus`
 - [ ] `read the bible`
 - [ ] `pray for me`
